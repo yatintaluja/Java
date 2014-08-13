@@ -13,6 +13,7 @@ public class secondstohours {
 			int result = total.gethours(a);
 			
 			System.out.print(result);
+			in.close();
 	}
 
 	public int gethours(int a){

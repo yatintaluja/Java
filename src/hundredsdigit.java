@@ -13,6 +13,7 @@ public class hundredsdigit {
 		int result = hundreddigit.getdigit(a);
 		
 		System.out.print(result);
+		in.close();
 	}
 
 	public int getdigit(int a) {
